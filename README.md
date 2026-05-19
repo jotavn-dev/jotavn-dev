@@ -16,6 +16,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Official_CSS_Logo.svg" width="40" title="CSS">
         <img src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo.png" width="40" title="JavaScript">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python">
+        <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="40" title="Python">
       </p>
     </td>
   </tr>
@@ -23,10 +24,10 @@
 
 <div align="center">
   <picture>
-     <img height="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jotavn-dev&layout=compact&theme=dark&langs_count=6"/>
+     <img height="30%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jotavn-dev&layout=compact&theme=dark&langs_count=6"/>
   </picture>
   <picture>
-  <img height="60%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jotavn-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jotavn-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </picture>
 </div>
 
