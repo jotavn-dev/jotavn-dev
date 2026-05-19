@@ -6,15 +6,15 @@
   <tr>
     <td width="30%" align="center" valign="middle">
       <img src="./the-matrix-remix.gif" alt="The Matrix Remix" width="100%">
-      <p>📖 Estudando Python</p>
+      <p>📖 Estudando Java</p>
       <p>😄 Pronouns: ele/dele</p>
     </td>
     <td width="70%" valign="top">
       <h3>👨‍💻 Tecnologias que uso</h3>
       <p>
-        <img src="https://cdn-icons-png.flaticon.com/512/3291/3291670.png" width="40" title="HTML">
+        <!-- <img src="https://cdn-icons-png.flaticon.com/512/3291/3291670.png" width="40" title="HTML">
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Official_CSS_Logo.svg" width="40" title="CSS">
-        <img src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo.png" width="40" title="JavaScript">
+        <img src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo.png" width="40" title="JavaScript"> -->
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python">
         <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="40" title="Python">
       </p>
