@@ -23,10 +23,10 @@
 
 <div align="center">
   <picture>
-     <img height="130" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jotavn-dev&layout=compact&theme=dark&langs_count=6"/>
+     <img height="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jotavn-dev&layout=compact&theme=dark&langs_count=6"/>
   </picture>
   <picture>
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jotavn-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="60%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jotavn-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </picture>
 </div>
 
