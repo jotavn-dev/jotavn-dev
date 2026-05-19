@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=FF6F3C&text=Olá!%20Eu%20sou%20o%20João%20Vitor!&reversal=false&textBg=false&fontColor=fe2857&desc=💻%20Desenvolvedor%20Back-end%20" width="70%" alt="Banner João Vitor">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=FF6F3C&text=Olá!%20Eu%20sou%20o%20João%20Vitor!&reversal=false&textBg=false&fontColor=fe2857&desc=💻%20Desenvolvedor%20Back-end%20" width="75%" alt="Banner João Vitor">
 </p>
 
 <table width="100%" align="center">
